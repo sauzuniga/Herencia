@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Herenciasdepoo\Herenciasdepoo\obj\Debug\Herenciasdepoo.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Herenciasdepoo\Herenciasdepoo\obj\Debug\Herenciasdepoo.Form1.resources
+C:\Users\USER\source\repos\Herenciasdepoo\Herenciasdepoo\obj\Debug\Herenciasdepoo.Properties.Resources.resources
+C:\Users\USER\source\repos\Herenciasdepoo\Herenciasdepoo\obj\Debug\Herenciasdepoo.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Herenciasdepoo\Herenciasdepoo\obj\Debug\Herenciasdepoo.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Herenciasdepoo\Herenciasdepoo\bin\Debug\Herenciasdepoo.exe.config
+C:\Users\USER\source\repos\Herenciasdepoo\Herenciasdepoo\bin\Debug\Herenciasdepoo.exe
+C:\Users\USER\source\repos\Herenciasdepoo\Herenciasdepoo\bin\Debug\Herenciasdepoo.pdb
+C:\Users\USER\source\repos\Herenciasdepoo\Herenciasdepoo\obj\Debug\Herenciasdepoo.exe
+C:\Users\USER\source\repos\Herenciasdepoo\Herenciasdepoo\obj\Debug\Herenciasdepoo.pdb
